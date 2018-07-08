@@ -1,4 +1,4 @@
-◆Ver22.3[2018.04.15]
+◆Ver22.4[2018.07.07]
 
 ◆導入方法
 	1.使いたいmltを選んで、AAEditのHukuTempフォルダに入れる
@@ -32,7 +32,7 @@ AAMZ Viewer
 http://aa.yaruyomi.com/
 
 AAリポジトリ
-正式版：
+正式版（2018/07/07時公開停止中）：
 http://aarepo.dip.jp/svn/aarepo/
 編集用：
 http://aarepo.dip.jp/svn-test/
