@@ -1,4 +1,4 @@
-◆Ver22.4[2018.07.07]
+◆Ver22.5[2018.07.26]
 
 ◆導入方法
 	1.使いたいmltを選んで、AAEditのHukuTempフォルダに入れる
@@ -28,7 +28,7 @@ http://www37.atwiki.jp/aarokuyaruo/
 新まとめ2：やる夫AA録2 by ◆booK.4Ti8w氏（更新停止）
 http://yaruo.b4t.jp/
 
-AAMZ Viewer
+AAMZ Viewer Yaruyomi氏
 http://aa.yaruyomi.com/
 
 AAリポジトリ
@@ -39,5 +39,6 @@ http://aarepo.dip.jp/svn-test/
 
 MLT ZIPまとめ by ◆WzxNyO0VrA氏（前）
 MLT ZIPまとめ by ◆booK.4Ti8w氏（仮）
-MLT ZIPまとめ by ◆SGKGFzNwGA
+MLT ZIPまとめ by ◆SGKGFzNwGA氏（前）
 　　　 　 　 and　96 ◆8.RsK7i3U6氏
+MLT ZIPまとめ by ◆8WQFucGZ/g
